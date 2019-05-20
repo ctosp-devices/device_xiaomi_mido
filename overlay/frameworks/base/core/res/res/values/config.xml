@@ -601,4 +601,7 @@
     <!-- Whether auto face unlock is enabled by default -->
     <bool name="config_autoFaceUnlockEnabledByDefault">true</bool>
 
+    <!-- Whether the always on display mode is available. -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
 </resources>
